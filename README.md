@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Final Project at General Assembly**
+- 🔭 I have completed Genearl Assembly Software Engineering Imersive course
 
-- 🌱 I’m currently learning **Fullstack Web Development**
+- 🌱 I’m solidifiying my skillset as a software developer
 
 - 📫 How to reach me **andrewchildre@gmail.com**
 
