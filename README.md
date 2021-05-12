@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I have completed Genearl Assembly Software Engineering Imersive course
+- 🔭 I have completed Genearl Assembly Software Engineering Imersive course and currently seeking employment
 
 - 🌱 I’m solidifiying my skillset as a software developer
 
