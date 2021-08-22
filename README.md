@@ -5,7 +5,7 @@
 
 - 🔭 I have completed Genearl Assembly Software Engineering Immersive course and currently seeking employment.
 
-- 🌱 I’m solidifiying my skillset as a software developer
+- 🌱 I continue to build my skill set as a software developer. 
 
 - 📫 How to reach me **andrewchildre@gmail.com**
 
