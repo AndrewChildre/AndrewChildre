@@ -1,9 +1,10 @@
 <h1 align="center">Andrew Childre</h1>
 <h3 align="center">Software Developer | USMC Veteran | Problem Solver</h3>
 
+- Currently employed software developer.
+- THis is my personal GitHub and I am currently redoing it for personal project
 
-
-- 🔭 I have completed Genearl Assembly Software Engineering Immersive course and currently seeking employment.
+- 🔭 I have completed Genearl Assembly Software Engineering Immersive course.
 
 - 🌱 I continue to build my skill set as a software developer. 
 
