@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | USMC Veteran | Problem Solver</h3>
 
 - Currently employed software developer.
-- THis is my personal GitHub and I am currently redoing it for personal project
+- This is my personal GitHub and I am currently redoing it for personal project
 
 - 🔭 I have completed Genearl Assembly Software Engineering Immersive course.
 
